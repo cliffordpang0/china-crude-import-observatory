@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2015.csv",
+    "file": "data\\raw\\jodi\\2015.csv",
+    "sha256": "08d761f322d81a10c431321515683ebb9bdd4254dd6273c2c8218cb65e6cab4f",
+    "retrieved_at": "2026-10-08T10:37:41.319933+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2016.csv",
+    "file": "data\\raw\\jodi\\2016.csv",
+    "sha256": "e2689657ff553737c3a58bf6806595e10fbecdb17536a25069fd14ee446ce973",
+    "retrieved_at": "2026-10-08T10:37:44.852913+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2017.csv",
+    "file": "data\\raw\\jodi\\2017.csv",
+    "sha256": "e1ec1e41bce3b3ca8b7fa8f3cefbf03828e10d1900c1d5eae7542a786e13209d",
+    "retrieved_at": "2026-10-08T10:37:58.596973+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2018.csv",
+    "file": "data\\raw\\jodi\\2018.csv",
+    "sha256": "eb9bdb984c4264aa58bc4ec69fa8f1b2b2c1a412f90d52511bb0d76542e895fe",
+    "retrieved_at": "2026-10-08T10:38:01.878655+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2019.csv",
+    "file": "data\\raw\\jodi\\2019.csv",
+    "sha256": "1013d3351fc73d9df268451e7c3698bb6fc856637880e567c3973704247b1a23",
+    "retrieved_at": "2026-10-08T10:38:05.185090+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2020.csv",
+    "file": "data\\raw\\jodi\\2020.csv",
+    "sha256": "fa12a096d21bde2e89da503b77e41ab8f7e7a56a2f00b586331994c5438562ff",
+    "retrieved_at": "2026-10-08T10:38:08.454422+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2021.csv",
+    "file": "data\\raw\\jodi\\2021.csv",
+    "sha256": "5af388bfe0e5f0c443651875c4e6186482cdcbda487172b2898c303d21f36248",
+    "retrieved_at": "2026-10-08T10:38:11.846109+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2022.csv",
+    "file": "data\\raw\\jodi\\2022.csv",
+    "sha256": "e0263b8a33248b154d6d3362de10a6bd7fe2a1f633e62359651c1ac474b86e68",
+    "retrieved_at": "2026-10-08T10:38:18.600523+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2023.csv",
+    "file": "data\\raw\\jodi\\2023.csv",
+    "sha256": "34f170c90f39ec05850a8beee7aa196b83231fa5360662d02737deec0e75d26e",
+    "retrieved_at": "2026-10-08T10:38:24.819341+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2024.csv",
+    "file": "data\\raw\\jodi\\2024.csv",
+    "sha256": "99ffe47ceee11220b16a98c2a66987881b760f1d88f1fe9caa8e62bb9282b6ff",
+    "retrieved_at": "2026-10-08T10:38:28.315255+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/2025.csv",
+    "file": "data\\raw\\jodi\\2025.csv",
+    "sha256": "5726e6e7319bbb72cf051b2bbdb3ea436ae32a3e0370cea60e04f9472e54870b",
+    "retrieved_at": "2026-10-08T10:38:34.887575+00:00"
+  },
+  {
+    "url": "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/primaryyear2026.csv",
+    "file": "data\\raw\\jodi\\2026.csv",
+    "sha256": "909a73300584b877b122659d549033f1eebab9f93d1131157e47ba0d142ca5e2",
+    "retrieved_at": "2026-10-08T10:38:40.381505+00:00"
+  }
+]

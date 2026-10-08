@@ -1,0 +1,9 @@
+Source: https://www.stats.gov.cn/english/PressRelease/202009/t20200916_1789803.html
+Retrieved: 2026-10-08T10:46:08Z
+Method: official NBS English release read through web search/open; manually transcribed monthly statement.
+Period: 2020-08
+Publication date shown in NBS header: 2020-09-16
+Crude processing volume: 59.47 million tonnes
+Quality flag: web_verified_transcription
+Scope: industrial enterprises above designated size; source coverage changes over time.
+This record is a factual extraction, not a full raw HTML archive. January-February excluded; monthly values are not derived from cumulative totals.

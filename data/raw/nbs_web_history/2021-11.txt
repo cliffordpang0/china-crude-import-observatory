@@ -1,0 +1,9 @@
+Source: https://www.stats.gov.cn/english/PressRelease/202112/t20211216_1825429.html
+Retrieved: 2026-10-08T10:46:08Z
+Method: official NBS English release read through web search/open; manually transcribed monthly statement.
+Period: 2021-11
+Publication date shown in NBS header: 2021-12-16
+Crude processing volume: 59.64 million tonnes
+Quality flag: web_verified_transcription
+Scope: industrial enterprises above designated size; source coverage changes over time.
+This record is a factual extraction, not a full raw HTML archive. January-February excluded; monthly values are not derived from cumulative totals.

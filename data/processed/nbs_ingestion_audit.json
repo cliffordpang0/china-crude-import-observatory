@@ -1,0 +1,444 @@
+{
+  "candidate_releases": 110,
+  "periods": 78,
+  "numeric_periods": 72,
+  "verified_supplemental_counts": {
+    "nbs_web_history.csv": 35,
+    "nbs_web_supplement.csv": 40
+  },
+  "failures": [
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965055.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965051.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964123.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964128.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202606/t20260616_1963953.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202606/t20260616_1963948.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963731.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963725.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963329.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963324.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962782.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962787.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962329.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962074.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962070.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961856.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961851.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961611.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961605.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961180.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961176.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202508/t20250815_1960790.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202508/t20250815_1960782.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202507/t20250715_1960413.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202507/t20250715_1960407.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202506/t20250616_1960172.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202506/t20250616_1960167.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202505/t20250519_1959862.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202505/t20250519_1959857.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202504/t20250416_1959320.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202504/t20250416_1959316.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202503/t20250317_1959012.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202503/t20250317_1959013.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958331.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958326.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202412/t20241216_1957765.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202412/t20241216_1957757.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202411/t20241115_1957430.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202411/t20241115_1957426.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202410/t20241018_1957043.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202410/t20241018_1957038.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202409/t20240914_1956486.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202409/t20240914_1956480.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202408/t20240815_1955984.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202408/t20240815_1955980.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202407/t20240715_1955596.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202407/t20240715_1955612.html",
+      "reason": "no_monthly_processing_parsed",
+      "title": "2024\u5e746\u6708\u4efd\u80fd\u6e90\u751f\u4ea7\u60c5\u51b5"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202406/t20240617_1954712.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202406/t20240617_1954708.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202405/t20240517_1950399.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202405/t20240520_1950431.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202404/t20240416_1948563.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202404/t20240416_1948576.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202403/t20240322_1948129.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202403/t20240322_1948121.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240116_1946618.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240116_1946621.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202312/t20231215_1945571.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202312/t20231215_1945572.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202311/t20231115_1944526.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202311/t20231115_1944531.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202310/t20231018_1943653.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202310/t20231018_1943655.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202309/t20230915_1942845.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202309/t20230915_1942850.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202308/t20230815_1941959.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202308/t20230815_1941962.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202307/t20230715_1941268.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202307/t20230715_1941272.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202306/t20230615_1940625.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202306/t20230615_1940626.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202305/t20230516_1939484.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202305/t20230516_1939487.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202304/t20230418_1938707.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202304/t20230418_1938711.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202303/t20230315_1937192.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202303/t20230315_1937200.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901710.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901714.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901679.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901683.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901652.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901656.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901616.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901620.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901580.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901584.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901549.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901553.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901514.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901518.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901487.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901491.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901461.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901465.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901428.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901432.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901403.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901407.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901337.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901338.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901305.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901309.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901279.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901283.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    },
+    {
+      "url": "https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1901241.html",
+      "reason": "official_release_access_challenge;not_parsed"
+    }
+  ],
+  "limitations": [
+    "Independent above-designated-size enterprise survey; annual coverage changes",
+    "January-February combined totals retained in flags; monthly values missing",
+    "Published snapshots, not complete vintage histories",
+    "National Data API returned 403; public releases used",
+    "Most direct NBS downloads return JavaScript access challenge; checked-in official web-rendered snapshots and verified transcriptions merged reproducibly",
+    "Earlier sparse 2015 sample is not continuous history; common independent window begins August 2019"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "first_month": "2015-01-01",
+  "last_month": "2026-07-01",
+  "common_model_start": "2019-08-01",
+  "months": 139,
+  "independent_processing_months": 71,
+  "evaluation": "Revised historical snapshots; not a vintage point-in-time backtest. Origins are first day of month. Lags 2 and 3 months. Jan-Feb targets excluded. Fixed ridge alpha=10, no tuning. Isolated historical NBS samples excluded from model window."
+}
